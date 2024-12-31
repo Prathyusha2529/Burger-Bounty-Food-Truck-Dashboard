@@ -63,8 +63,4 @@ shiny & shinydashboard – Develop interactive UI and visualize data.
 **Data Sources:**
 Localized sales, pricing, and visit data for Hartford, CT.
 
-**Live Application**
-Explore the Burger Bounty Food Truck Dashboard live on ShinyApps.io:
-https://srinivasminnakanti.shinyapps.io/burgerbounty/
-
 This project empowers Burger Bounty to thrive in the competitive Hartford, CT food truck scene by making strategic, data-driven decisions for location and pricing. 
